@@ -1,0 +1,2 @@
+recursive-include tutorlegacyfrontends/patches *
+recursive-include tutorlegacyfrontends/templates *
